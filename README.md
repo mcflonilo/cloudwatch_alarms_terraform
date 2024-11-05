@@ -122,9 +122,9 @@ Start applikasjonen med Cloud 9
 mvn spring-boot:run
 ```
 
-Koden i dette repoet eksponerer et REST grensesnitt på http://localhost:8080/account
+##  Kall APIet fra en terminal I Cloud 9 
 
-## Kall APIet fra en terminal I Cloud 9 
+Spring Boot applikasjonen i dette repoet eksponerer et REST Endepunkt på http://localhost:8080/account  
 
 * Opprette konto, eller sette saldo
 
